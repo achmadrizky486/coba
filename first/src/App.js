@@ -6,7 +6,10 @@ class App extends React.Component {
   }
   render() {
     return (
+      <>
+        <noscript > You need to enable JavaScript to run this app. </noscript>
 
+      </>
     )
   }
 }
