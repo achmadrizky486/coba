@@ -14,7 +14,7 @@ class App extends React.Component {
             <div class="row align-items-center">
               <div class="col-lg-8 col-md-12 col-sm-12 col-12">
                 <div class="alterra">
-                  <a href="index.html"><img class="logo-atas" src="asset/img/logo-ALTA@2x.png" /></a>
+                  <a href="index.html"><img class="logo-atas" src="img/logo-ALTA@2x.png" /></a>
                 </div>
               </div>
               <div class="col-lg-4 col-md-12 col-sm-12 col-12">
@@ -33,7 +33,7 @@ class App extends React.Component {
         <div class="container h-100">
           <div class="row align-items-center isi-home">
             <div class="col-lg-4 col-md-12 col-sm-12  col-12">
-              <img id="foto-profil" src="asset/img/matthew-hamilton-tNCH0sKSZbA-unsplash.jpg" />
+              <img id="foto-profil" src="img/matthew-hamilton-tNCH0sKSZbA-unsplash.jpg" />
             </div>
             <div class="col-lg-8 col-md-12 col-sm-12 col-12">
               <div class="main-p">
