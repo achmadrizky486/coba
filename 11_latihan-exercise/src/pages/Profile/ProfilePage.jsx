@@ -7,7 +7,7 @@ const ProfilePage = ({ users }) => {
   return (
     <>
       <Header text="Profile Page" />
-      {users.map((user) => <ProfileCard user={user} />)}
+      {users.map((todo) => <ProfileCard todo={todo} />)}
     </>
   )
 }
